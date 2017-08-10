@@ -1,2 +1,2 @@
 # card-shark
-A library for playing card game logic
+A library for card-game logic and templating
